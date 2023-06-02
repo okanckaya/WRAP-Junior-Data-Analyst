@@ -15,6 +15,7 @@ This repository contains the following files:
 - `Python_Code.py`: Python code for data manipulation and analysis
 - `SQL_Code.sql`: SQL code for data manipulation and analysis
 - `Okan Cetinkaya JDA Task Final Excel.xlsx`: Final Excel file with analysis and visuals
+- `Okan Cetinkaya WRAP Presentation.pptx`: PowerPoint presentation
 
 ## Usage
 
