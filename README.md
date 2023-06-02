@@ -12,7 +12,7 @@ Task III: Find which "Local Authorities" collect aluminium cans?
 
 This repository contains the following files:
 
-- `Python Code.py`: Python code for data manipulation and analysis
+- `Python_Code.py`: Python code for data manipulation and analysis
 - `SQL_Code.sql`: SQL code for data manipulation and analysis
 - `Okan Cetinkaya JDA Task Final Excel.xlsx`: Final Excel file with analysis and visuals
 
